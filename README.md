@@ -1,4 +1,4 @@
 python
 ======
 
-Scripts that I wrote while learning python.
+The repository contains the scripts that I am writing currently while learning python. 
